@@ -1,4 +1,4 @@
-# 💻 Portafolio - [Tu Nombre]  
+# 💻 Portafolio - [Brenda Aguilar]  
 
 ¡Hola! Soy Brenda Aguilar, una programadora **Fullstack Junior** con especialización en **Frontend** y conocimientos en **Diseño UX/UI**. Me apasiona crear interfaces intuitivas, funcionales y con un diseño atractivo, combinando tecnología y creatividad.  
 
